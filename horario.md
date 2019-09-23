@@ -15,7 +15,7 @@
 # Horario
 
 |Lunes|MArtes|Miércoles|Jueves|Viernes
-|---|---|---|---|---|---
+|---|---|---|---|---
 |a|b|c|d|e
 
 
