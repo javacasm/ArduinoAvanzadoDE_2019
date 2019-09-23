@@ -1,7 +1,11 @@
  # Curso básico de Arduino
 
 
-### José Antonio Vacas @javacasm
+## BiblioMaker - Facultad de Ciencias
+## 23 al 27 de Septiembre de 2019
+
+## http://bit.ly/ArduinoAvanzado19
+
 ![CCbySA](imagenes/CCbySQ_88x31.png)
 
 * * *
