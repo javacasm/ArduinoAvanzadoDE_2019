@@ -17,8 +17,8 @@
 |MARTES|MIÉRCOLES|JUEVES|VIERNES M|VIERNES T|
 |---|---|---|---|---|---|
 |asdfa|aaa|aaaa|aaa|aaa
-|[Introducción](presentaciones/Arduino A. - 0.0 - Introducción a Arduino.pdf)|[C avanzado](Programación avanzada/Arduino A. - 1.2.3 - Programación avanzada- C avanzado.pdf)|ADC/DAC|Comuni- caciones|Procesado en el pc|
-|[Repaso de programación Arduino](./Repaso/curso arduino basico.md)|[Acceso avanzado a puertos](Programación avanzada/Arduino A. - 1.2.1 - Programación avanzada_ Puertos.pdf)|Sensores|Sensores II|Java|
-|[Repaso de hardware](./Repaso/Arduino A. - 1.1.2 - Introducción_ Hardware.pdf)|[Interrupciones software](Programación avanzada/Arduino A. - 1.2.2 - Programación avanzada_ Interrupciones Software.pdf)|Motores|Interrup. hardware|Python|
-|[Repaso de electrónica](presentaciones/Introducción a la electrónica.pdf)|Estructura del IDE|Motores stepper|Teclados|Redes/Web|
-|Contenido del [Kit](./Extra/GUIA INVENKIT 2016.pdf)|Displays & matrices leds|Sonido|Alarma|Montajes avanzados|
+|[Introducción](./presentaciones/Arduino%20A.%20-%200.0%20-%20Introducción%20a%20Arduino.pdf)|[C avanzado](Programación avanzada/Arduino%20A.%20-%201.2.3%20-%20Programación%20avanzada-%20C%20avanzado.pdf)|ADC/DAC|Comuni- caciones|Procesado en el pc|
+|[Repaso de programación Arduino](./Repaso/curso%20arduino%20basico.md)|[Acceso avanzado a puertos](./Programación%20avanzada/Arduino%20A.%20-%201.2.1%20-%20Programación%20avanzada_%20Puertos.pdf)|Sensores|Sensores II|Java|
+|[Repaso de hardware](./Repaso/Arduino%20A.%20-%201.1.2%20-%20Introducción_%20Hardware.pdf)|[Interrupciones software](./Programación%20avanzada/Arduino%20A.%20-%201.2.2%20-%20Programación%20avanzada_%20Interrupciones%20Software.pdf)|Motores|Interrup. hardware|Python|
+|[Repaso de electrónica](./presentaciones/Introducción%20a%20la%20electrónica.pdf)|Estructura del IDE|Motores stepper|Teclados|Redes/Web|
+  |Contenido del [Kit](./Extra/GUIA%20INVENKIT%202016.pdf)|Displays & matrices leds|Sonido|Alarma|Montajes avanzados|
