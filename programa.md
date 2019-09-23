@@ -20,12 +20,12 @@ Introducción  5h
 
 * [Introducción](./presentaciones/Arduino%20A.%20-%200.0%20-%20Introducci%C3%B3n%20a%20Arduino.pdf)
 * [Repaso de programación Arduino](./Repaso/curso%20arduino%20basico.md)
-* [Repaso de hardware](./Repaso/Arduino%20A.%20-%201.1.2%20-%20Introducción_ Hardware.pdf)
+* [Repaso de hardware](./Repaso/Arduino%20A.%20-%201.1.2%20-%20Introducción_%20Hardware.pdf)
 * [Repaso de electrónica](.presentaciones/Introducción%20a%20la%20electrónica.pdf)
 * [Kit](./Extra/GUIA%20INVENKIT%202016.pdf)
 
 Programación avanzada 5h
-* [Acceso avanzado a puertos: acceso paralelo](.Programación%20avanzada/Arduino%20A.%20-%201.2.1%20-%20Programación%20avanzada_ Puertos.pdf)
+* [Acceso avanzado a puertos: acceso paralelo](./Programación%20avanzada/Arduino%20A.%20-%201.2.1%20-%20Programación%20avanzada_ Puertos.pdf)
 * [Interrupciones software](./Programación%20avanzada/Arduino%20A.%20-%201.2.2%20-%20Programación%20avanzada_%20Interrupciones%20Software.pdf)
 * [C avanzado](./Programación%20avanzada/Arduino%20A.%20-%201.2.3%20-%20Programación%20avanzada-%20C%20avanzado.pdf)
 
