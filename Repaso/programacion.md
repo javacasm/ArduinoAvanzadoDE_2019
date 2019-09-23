@@ -3,9 +3,10 @@
 
 ## José Antonio Vacas @javacasm
 ## Organiza: Darwin Eventur
-## Facultad de Ciencias
-## 14 al 17 de Febrero de 2017
-##								#Arduino2017
+## BiblioMaker - Facultad de Ciencias
+## 23 al 27 de Septiembre de 2019
+
+## http://bit.ly/ArduinoAvanzado19
 
 ![CC](../images/Licencia_CC_peque.png)
  
