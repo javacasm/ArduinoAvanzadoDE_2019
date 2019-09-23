@@ -1,5 +1,10 @@
 # TODO
 
+## BiblioMaker - Facultad de Ciencias
+## 23 al 27 de Septiembre de 2019
+
+## http://bit.ly/ArduinoAvanzado19
+
 Mejoras para próximas versiones
 
 ## LM35 Pinout
