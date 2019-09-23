@@ -18,6 +18,5 @@
 
 ## [Ejemplos](./proyectos.md)
 
+## [Recursos extra](./Extra)
 
-# [Recursos extra](./Extra)
-# ArduinoAvanzadoDE_2019
