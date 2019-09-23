@@ -25,7 +25,7 @@ Introducción  5h
 * [Kit](./Extra/GUIA%20INVENKIT%202016.pdf)
 
 Programación avanzada 5h
-* [Acceso avanzado a puertos: acceso paralelo](./Programación%20avanzada/Arduino%20A.%20-%201.2.1%20-%20Programación%20avanzada_ Puertos.pdf)
+* [Acceso avanzado a puertos: acceso paralelo](./Programación%20avanzada/Arduino%20A.%20-%201.2.1%20-%20Programación%20avanzada_%20Puertos.pdf)
 * [Interrupciones software](./Programación%20avanzada/Arduino%20A.%20-%201.2.2%20-%20Programación%20avanzada_%20Interrupciones%20Software.pdf)
 * [C avanzado](./Programación%20avanzada/Arduino%20A.%20-%201.2.3%20-%20Programación%20avanzada-%20C%20avanzado.pdf)
 
