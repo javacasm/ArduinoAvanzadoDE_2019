@@ -14,6 +14,11 @@
 
 # Horario
 
+|uno|dos|tres
+|---|---|---
+|a|b|c
+
+
 |Lunes|MArtes|Miércoles|Jueves|Viernes|
 |---|---|---|---|---|---|
 |[Introducción](./presentaciones/Arduino%20A.%20-%200.0%20-%20Introducción%20a%20Arduino.pdf)|[C avanzado](./Programación%20avanzada/Arduino%20A.%20-%201.2.3%20-%20Programación%20avanzada-%20C%20avanzado.pdf)|ADC/DAC|Comunicaciones|Procesado en el pc|
