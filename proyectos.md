@@ -26,4 +26,4 @@
 
 ### [KITT regulable en velocidad y brillo](./proyectos/kitt_regulable_miEspera_ldr/kitt_regulable_miEspera_ldr.ino)
 
-![Montaje KITT](./images/)
+![Montaje KITT](./images/montajeKITT.jpg)
