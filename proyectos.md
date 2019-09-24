@@ -35,13 +35,7 @@
 ### 4. Aprovechamos para ver los valores de humedad
 ![img](./images/Programa-Control-Temperatura-Humedad-LCD.png)
 
-
-### 5. 
-
-![img](./images/Programa-Control-Temperatura-LCD.png)
-
-
-### 6. Añadimos un potenciómetro para fijar el valor de la temperatura objetivo
+### 5. Añadimos un potenciómetro para fijar el valor de la temperatura objetivo
 ![img](./images/Programa-Control-Temperatura-LCD-regulable.png)
 ![img](./images/Montaje-Control-Temperatura-LCD-regulable.png)
 
