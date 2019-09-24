@@ -14,16 +14,16 @@
 
 # Repaso de electrónica
 
-[Repaso de electrónica](./presentaciones/Introducción%20a%20la%20electrónica.pdf)
+[Repaso de electrónica](../presentaciones/Introducción%20a%20la%20electrónica.pdf)
 
 ## Conexión en placas de prototipo
 
-![conexi'on placas de prototipo](./images/protoboard.jfif)
+![conexi'on placas de prototipo](../images/protoboard.jfif)
 
 ## Código de colores de resistencias de 4 bandas
 
-![C'odigo de colores de resistencias de 4 bandas](./images/CodigoColorResistecia4bandas.jpg)
+![C'odigo de colores de resistencias de 4 bandas](../images/CodigoColorResistecia4bandas.jpg)
 
 ## Código de colores de resistencias de 5 bandas
 
-![C'odigo de colores de resistencias de 5 bandas](./images/codigo_colores_resistencias_5_bandas.png)
+![C'odigo de colores de resistencias de 5 bandas](../images/codigo_colores_resistencias_5_bandas.png)
