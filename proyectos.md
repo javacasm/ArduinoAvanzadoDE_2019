@@ -16,29 +16,32 @@
 
 ## Termostato
 
-1. Medimos la temperatura y enviamos el valor medido al PC 
+### 1. Medimos la temperatura y enviamos el valor medido al PC 
 
 ![img](./images/Montaje-medida-temperatura.png)
 ![img](./images/Programa-medida-temperatura.png)
 
-2. Añadimos control sobre la temperatura, encenderemos un relé según la temperatura
+### 2. Añadimos control sobre la temperatura, encenderemos un relé que se activará según el valor de la temperatura
 
 ![img](./images/Montaje-Control-Temperatura.png)
 ![img](./images/Programa-Control-Temperatura.png)
 
-3. Añadimos una pantalla LCD para poder ver el valor de la temperatura y humedad, creamos una variable para simplificar
-![img](./images/Programa-Control-Temperatura-LCD.png)
-
-4. Aprovechamos para ver los valores de humedad
-![img](./images/Programa-Control-Temperatura-Humedad-LCD.png)
-
-
-5. 
+### 3. Añadimos una pantalla LCD para poder ver el valor de la temperatura y humedad, creamos una variable para simplificar
 
 ![img](./images/Control-temperatura-LCD.png)
 ![img](./images/Montaje-Control-Temperatura-LCD.png)
 
-6. Añadimos un potenciómetro para fijar el valor de la temperatura objetivo
+
+### 4. Aprovechamos para ver los valores de humedad
+![img](./images/Programa-Control-Temperatura-Humedad-LCD.png)
+
+
+### 5. 
+
+![img](./images/Programa-Control-Temperatura-LCD.png)
+
+
+### 6. Añadimos un potenciómetro para fijar el valor de la temperatura objetivo
 ![img](./images/Programa-Control-Temperatura-LCD-regulable.png)
 ![img](./images/Montaje-Control-Temperatura-LCD-regulable.png)
 
