@@ -1,4 +1,4 @@
-# Arduino: Nivel avanzado
+# Arduino: Nivel avanzado 3ed
 
 
 ## José Antonio Vacas @javacasm
@@ -14,7 +14,12 @@
 
 # Proyectos
 
-### [Semaforo usando constantes (defines)](./proyectos/Semaforo_define/Semaforo_define.ino)
+## Termostato
+
+
+## Ediciones anteriores
+
+### [Semáforo usando constantes (defines)](./proyectos/Semaforo_define/Semaforo_define.ino)
 
 ### [KITT](proyectos/kitt/kitt.ino)
 
