@@ -16,6 +16,20 @@
 
 ## Termostato
 
+1. Medimos la temperatura y enviamos el valor medido al PC 
+![img](./images/Montaje-medida-temperatura.png)
+![img](./images/Programa-medida-temperatura.png)
+
+
+![img](./images/Programa-Control-Temperatura-Humedad-LCD.png)
+![img](./images/Programa-Control-Temperatura-LCD-regulable.png)
+![img](./images/Montaje-Control-Temperatura-LCD-regulable.png)
+![img](./images/Programa-Control-Temperatura-LCD.png)
+![img](./images/Control-temperatura-LCD.png)
+![img](./images/Montaje-Control-Temperatura-LCD.png)
+![img](./images/Montaje-Control-Temperatura.png)
+
+![img](./images/Programa-Control-Temperatura.png)
 
 ## Ediciones anteriores
 
