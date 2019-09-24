@@ -1,4 +1,4 @@
- # Curso básico de Arduino
+ # Curso básico de Arduino  3ed
 
 
 ## BiblioMaker - Facultad de Ciencias
@@ -116,6 +116,8 @@ Vemos que hemos utilizado 2 bloques Led, no hay que entender que se necesitan 2 
 ![led placa](imagenes/led13bb.jpg)
 
 [¿cómo funciona una placa prototipo?](imagenes/breadboard1.gif)
+
+[(Detalles sobre las resistencias)](./electronica.md)
 
 #### Ejercicio: Cambiar el pin utilizado al pin 2
 
