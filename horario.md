@@ -1,4 +1,4 @@
-# Arduino: Nivel avanzado
+# Arduino: Nivel avanzado 3ed
 
 
 ## José Antonio Vacas @javacasm
@@ -16,8 +16,8 @@
 
 |Lunes|Martes|Miércoles|Jueves|Viernes
 |---|---|---|---|---
-|[Introducción](./presentaciones/Arduino%20A.%20-%200.0%20-%20Introducción%20a%20Arduino.pdf)|[C avanzado](./Programación%20avanzada/Arduino%20A.%20-%201.2.3%20-%20Programación%20avanzada-%20C%20avanzado.pdf)|ADC/DAC|Comunicaciones|Procesado en el pc
-|[Repaso de programación Arduino](./Repaso/curso%20arduino%20basico.md)|[Acceso avanzado a puertos](./Programación%20avanzada/Arduino%20A.%20-%201.2.1%20-%20Programación%20avanzada_%20Puertos.pdf)|[Sensores](./Expandiendo%20Arduino/Arduino%20A.%20-%202.6%20-%20%20Sensores.pdf)|Sensores II|Java|
+|[Introducción](./presentaciones/Arduino%20A.%20-%200.0%20-%20Introducción%20a%20Arduino.pdf)|[C avanzado](./Programación%20avanzada/Arduino%20A.%20-%201.2.3%20-%20Programación%20avanzada-%20C%20avanzado.pdf)|ADC/DAC|[Comunicaciones](./Expandiendo%20Arduino/Arduino%20A.%20-%202.7.0%20-%20Comunicaciones%20-%20Serie.pdf)|Procesado en el pc
+|[Repaso de programación Arduino](./Repaso/curso%20arduino%20basico.md)|[Acceso avanzado a puertos](./Programación%20avanzada/Arduino%20A.%20-%201.2.1%20-%20Programación%20avanzada_%20Puertos.pdf)|[Sensores II](./Expandiendo%20Arduino/Arduino%20A.%20-%202.6%20-%20%20Sensores.pdf)|[Sensores I](./presentaciones/Sensores.pdf)|Java|
 |[Repaso de hardware](./Repaso/Arduino%20A.%20-%201.1.2%20-%20Introducción_%20Hardware.pdf)|[Interrupciones software](./Programación%20avanzada/Arduino%20A.%20-%201.2.2%20-%20Programación%20avanzada_%20Interrupciones%20Software.pdf)|[Motores](./Expandiendo%20Arduino/Arduino%20A.%20-%202.1.4%20-%20Expandiendo%20Arduino_%20Motores.pdf)|[Interrup. hardware](./Expandiendo%20Arduino/Arduino%20A.%20-%202.1.3%20-%20Expandiendo%20Arduino_%20interrupciones%20hardware.pdf)|Python|
 |[Repaso de electrónica](./presentaciones/Introducción%20a%20la%20electrónica.pdf)|Estructura del IDE|Motores stepper|Teclados|Redes/Web|
-|Contenido del [Kit](./Extra/GUIA%20INVENKIT%202016.pdf)|[Displays & matrices leds](./Expandiendo%20Arduino/Arduino%20A.%20-%202.1.6%20-%20Expandiendo%20Arduino_%20Display%20Matrices%20Leds.pdf)|Sonido|Alarma|Montajes avanzados|
+|Contenido del [Kit](./Extra/GUIA%20INVENKIT%202016.pdf)|[Displays & matrices leds](./Expandiendo%20Arduino/Arduino%20A.%20-%202.1.6%20-%20Expandiendo%20Arduino_%20Display%20Matrices%20Leds.pdf)|[Sonido](./Expandiendo%20Arduino/Arduino%20A.%20-%202.1.1%20-%20Expandiendo%20Arduino_%20Sonido%20y%20tiempos.pdf)|Alarma|Montajes avanzados|
