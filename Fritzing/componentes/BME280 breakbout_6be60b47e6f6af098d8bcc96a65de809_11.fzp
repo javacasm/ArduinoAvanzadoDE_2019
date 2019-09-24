@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module referenceFile="ADXL335_v13.fzp" fritzingVersion="0.5.2b.02.18.4756" moduleId="BME280 breakbout_6be60b47e6f6af098d8bcc96a65de809_11">
+ <version>4</version>
+ <date>mié. may. 30 2018</date>
+ <author>javacasm based in Richard Bruneau</author>
+ <description>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
+p, li { white-space: pre-wrap; }
+&lt;/style>&lt;/head>&lt;body style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">This is a breakout board for the Bosch Sensortec BMP280, &amp;quot;an absolute barometric pressure sensor especially designed for mobile applications.&amp;quot; The operation range is 300 to 1100 hPa. Supply voltage is 1.2 to 3.6V. Operating temperature range is -40 to +85 °C.&lt;/p>&lt;/body>&lt;/html></description>
+ <title>BMP280 Breakout Board</title>
+ <url/>
+ <tags>
+  <tag>BMP280</tag>
+  <tag>breakout</tag>
+  <tag>board</tag>
+  <tag>barometric</tag>
+  <tag>pressure</tag>
+  <tag>sensor</tag>
+ </tags>
+ <properties>
+  <property name="variant">variant 1</property>
+  <property name="family">pressure sensor breakout</property>
+  <property name="part number">BMP280</property>
+  <property name="layer"></property>
+ </properties>
+ <views>
+  <breadboardView>
+   <layers image="breadboard/BME280 breakbout_6be60b47e6f6af098d8bcc96a65de809_11_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/BME280 breakbout_6be60b47e6f6af098d8bcc96a65de809_11_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/BME280 breakbout_6be60b47e6f6af098d8bcc96a65de809_11_pcb.svg">
+    <layer layerId="copper1"/>
+    <layer layerId="silkscreen"/>
+    <layer layerId="copper0"/>
+   </layers>
+  </pcbView>
+  <iconView>
+   <layers image="icon/BME280 breakbout_6be60b47e6f6af098d8bcc96a65de809_11_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+ </views>
+ <connectors>
+  <connector id="connector9" name="VCC" type="male">
+   <description>VCC</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector9pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector9pin" layer="schematic" terminalId="connector9terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector9pad" layer="copper0"/>
+     <p svgId="connector9pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector10" name="GND" type="male">
+   <description>GND</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector10pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector10pin" layer="schematic" terminalId="connector10terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector10pad" layer="copper0"/>
+     <p svgId="connector10pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector11" name="SCL" type="male">
+   <description>SCL</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector11pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector11pin" layer="schematic" terminalId="connector11terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector11pad" layer="copper0"/>
+     <p svgId="connector11pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector id="connector12" name="SDA" type="male">
+   <description>SDA</description>
+   <views>
+    <breadboardView>
+     <p svgId="connector12pin" layer="breadboard"/>
+    </breadboardView>
+    <schematicView>
+     <p svgId="connector12pin" layer="schematic" terminalId="connector12terminal"/>
+    </schematicView>
+    <pcbView>
+     <p svgId="connector12pad" layer="copper0"/>
+     <p svgId="connector12pad" layer="copper1"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+ <buses/>
+ <label>BMP280 Breakout</label>
+</module>

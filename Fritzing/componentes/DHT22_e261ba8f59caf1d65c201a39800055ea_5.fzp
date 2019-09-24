@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<module referenceFile="generic_ic_dip_4_300mil.fzp" moduleId="DHT22_e261ba8f59caf1d65c201a39800055ea_5">
+ <version>4</version>
+ <author>javacasm based arduinomodules.info</author>
+ <title>DHT22 Breakout module</title>
+ <label>Part</label>
+ <date>mié. may. 30 2018</date>
+ <tags>
+  <tag>Temperature</tag>
+  <tag>arduinomodules.info</tag>
+  <tag>DHT22</tag>
+  <tag>Humidity</tag>
+ </tags>
+ <properties>
+  <property name="variant">variant 1</property>
+  <property name="family">DHT</property>
+  <property name="Signal transmission range">20m</property>
+  <property name="editable pin labels">false</property>
+  <property name="layer"></property>
+  <property name="package">Breakout board</property>
+  <property name="Humidity measurement resolution">1% RH</property>
+  <property name="hole size"></property>
+  <property name="Operating voltage">3.3V to 5.5V</property>
+  <property name="part number"></property>
+  <property name="Temperature measurement range">0ºC to 50ºC [32ºF to 122ºF]</property>
+  <property name="Humidity measurement range">20% to 90% RH</property>
+  <property name="Temperature measurement resolution">1ºC</property>
+  <property name="pins">3</property>
+  <property name="chip label">DHT22</property>
+  <property name="Humidity measuring accuracy">±5% RH</property>
+  <property name="pin spacing">300mil</property>
+  <property name="Temperature measurement accuracy">±0.5ºC</property>
+  <property name="dimensions">18.5mm x 16.5mm [0.728in x 0.650in]</property>
+ </properties>
+ <taxonomy>part.dip.4.pins</taxonomy>
+ <description>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
+p, li { white-space: pre-wrap; }
+&lt;/style>&lt;/head>&lt;body style=" font-family:'Open Sans'; font-size:9pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-family:'MS Shell Dlg 2'; font-size:8.25pt;">DHT22 temperature and humidity sensor module, provides a low-latency serial interface to measure humidity and temperature.&lt;/span>&lt;/p>&lt;/body>&lt;/html></description>
+ <views>
+  <iconView>
+   <layers image="icon/DHT22_910a470507d12e510f35fb5cb562e244_1_icon.svg">
+    <layer layerId="icon"/>
+   </layers>
+  </iconView>
+  <breadboardView>
+   <layers image="breadboard/DHT22_910a470507d12e510f35fb5cb562e244_1_breadboard.svg">
+    <layer layerId="breadboard"/>
+   </layers>
+  </breadboardView>
+  <schematicView>
+   <layers image="schematic/DHT22_910a470507d12e510f35fb5cb562e244_1_schematic.svg">
+    <layer layerId="schematic"/>
+   </layers>
+  </schematicView>
+  <pcbView>
+   <layers image="pcb/DHT22_910a470507d12e510f35fb5cb562e244_1_pcb.svg">
+    <layer layerId="silkscreen"/>
+    <layer layerId="copper0"/>
+    <layer layerId="copper1"/>
+   </layers>
+  </pcbView>
+ </views>
+ <connectors>
+  <connector type="male" id="connector0" name="Out">
+   <description>Signal</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector0pin" terminalId="connector0terminal"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector0pin" terminalId="connector0terminal"/>
+    </schematicView>
+    <pcbView>
+     <p layer="copper0" svgId="connector0pin"/>
+     <p layer="copper1" svgId="connector0pin"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector1" name="+">
+   <description>Power</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector1pin" terminalId="connector1terminal"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector1pin" terminalId="connector1terminal"/>
+    </schematicView>
+    <pcbView>
+     <p layer="copper0" svgId="connector1pin"/>
+     <p layer="copper1" svgId="connector1pin"/>
+    </pcbView>
+   </views>
+  </connector>
+  <connector type="male" id="connector2" name="-">
+   <description>GND</description>
+   <views>
+    <breadboardView>
+     <p layer="breadboard" svgId="connector2pin" terminalId="connector2terminal"/>
+    </breadboardView>
+    <schematicView>
+     <p layer="schematic" svgId="connector2pin" terminalId="connector2terminal"/>
+    </schematicView>
+    <pcbView>
+     <p layer="copper0" svgId="connector2pin"/>
+     <p layer="copper1" svgId="connector2pin"/>
+    </pcbView>
+   </views>
+  </connector>
+ </connectors>
+ <url></url>
+</module>
