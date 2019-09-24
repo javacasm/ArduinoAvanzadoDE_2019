@@ -22,7 +22,7 @@ Introducción  5h
 * [Introducción](./presentaciones/Arduino%20A.%20-%200.0%20-%20Introducci%C3%B3n%20a%20Arduino.pdf)
 * [Repaso de programación Arduino](./Repaso/curso%20arduino%20basico.md)
 * [Repaso de hardware](./Repaso/Arduino%20A.%20-%201.1.2%20-%20Introducción_%20Hardware.pdf)
-* [Repaso de electrónica](.presentaciones/Introducción%20a%20la%20electrónica.pdf)
+* [Repaso de electrónica](./presentaciones/Introducción%20a%20la%20electrónica.pdf)
 * [Kit](./Extra/GUIA%20INVENKIT%202016.pdf)
 
 Programación avanzada 5h
