@@ -24,3 +24,4 @@
 
 ## [Ejemplos/Proyectos](./proyectos.md)
 
+### [¿Dónde comprar?](./Comprar.md)
