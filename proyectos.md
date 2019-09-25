@@ -47,10 +47,20 @@
 
 ![KITT](http://wallpapercave.com/wp/EXZQNq7.gif)
 
+![Programa](./images/Programa-Kitt-regulable.png)
+
+![Montaje KITT](./images/montajeKITT.jpg)
+
 ### [Kitt utilizando un array](./proyectos/kitt_array/kitt_array.ino)
 
 ### [KITT con velocidad regulable](.proyectos/kitt_regulable_miEspera/kitt_regulable_miEspera.ino)
 
 ### [KITT regulable en velocidad y brillo](./proyectos/kitt_regulable_miEspera_ldr/kitt_regulable_miEspera_ldr.ino)
 
-![Montaje KITT](./images/montajeKITT.jpg)
+## Creando colores con Led RGB 
+
+Usare 3 sensores analógicos para controlar los nivels de brillo de un led RGB
+
+## Controlando un servo
+
+![pot y servo](https://www.prometec.net/wp-content/uploads/2016/05/montaje-servo-potenci%C3%B3metro.png)
