@@ -61,6 +61,11 @@
 
 Usare 3 sensores analógicos para controlar los nivels de brillo de un led RGB
 
+
+![Led RGB](./images/LED-RGB.png)
+
 ## Controlando un servo
+
+Usaremos el ejemplo knob de arduino
 
 ![pot y servo](https://www.prometec.net/wp-content/uploads/2016/05/montaje-servo-potenci%C3%B3metro.png)
