@@ -23,8 +23,10 @@ Para activar una interrupción sólo tenemos que llamar al método attachInterru
 
 Veamos un ejemplo donde hemos conectado un led al pin 11 (con su resistencia) y un pulsador en el pin 2 (interrupción hardware 0)
 
+Hay que tener cuidado con los cambios que se hacen a las variables en una interrupción pues podrían entrar en conflicto con los valores que tenían, por eso se marcan esas variables como "volatile" para el compilador lo tenga en cuenta.
+
     const int  led_pin = 11;
-    int estado = LOW ;
+    volatile int estado = LOW ;
 
     void setup() {
     pinMode(led_pin,OUTPUT);
@@ -53,12 +55,10 @@ Podríamos estar tentados de mover la llamada de digitalWrite al método parpade
 
 * Así demostramos que estamos haciendo parte del procesamiento en 2 sitios distintos
 
-Hay que tener cuidado con los cambios que se hacen a las variables en una interrupción pues podrían entrar en conflicto con los valores que tenían, por eso se marcan esas variables como "volatile" para el compilador lo tenga en cuenta.
-
 Vamos a añadir al ejemplo un contador que se incrementará con cada pulsación
 
     const int  led_pin = 11;
-    int estado = LOW ;
+    volatile int estado = LOW ;
     volatile int contador = 0;
 
     void setup() {
