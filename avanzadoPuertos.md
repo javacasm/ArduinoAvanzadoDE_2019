@@ -1,3 +1,16 @@
+# Arduino: Nivel avanzado 3ed
+
+
+## José Antonio Vacas @javacasm
+## Organiza: [Darwin Eventur](https://www.darwineventur.com/2019/07/arduino-avanzado-3a-edicion.html)
+## BiblioMaker - Facultad de Ciencias
+## 23 al 27 de Septiembre de 2019
+
+## http://bit.ly/ArduinoAvanzado19
+![CC](./images/Licencia_CC_peque.png)
+
+
+
 ## Uso avanzado de puertos
 
 Hasta ahora todo el acceso a los puertos que hemos hecho ha sido usando las instrucciones  digitalWrite o digitalRead. Con ella sólo podíamos acceder a un pin al mismo tiempo, es decir para hacer varias acceso a diferentes pines teníamos que hacer diferentes llamadas.
